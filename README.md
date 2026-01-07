@@ -1,15 +1,16 @@
-# Cognitive Engineering Project: LLM Reasoning Anomalies
+# Cognitive Engineering Project: The Logic Bridge
+## Evidence of Cross-architectural "Wait-Phenomenon" (WP)
 
-## 1. Project Objective
-This repository documents empirical evidence of **Reasoning Phase Transitions** in large-scale language models (LLMs). 
+### 🚀 Overview
+This project documents the discovery of the **Wait-Phenomenon (WP)** — a non-instructional, spontaneous reasoning behavior (the "Aha moment") — replicated across both **DeepSeek-R1** and **Google Gemini**.
 
-## 2. Core Observation: The 12-26 Case Study
-On **December 26, 2025**, a spontaneous meta-verification signal was recorded during a logic alignment task involving 19th-century spatio-temporal dynamics (1861n alignment). 
-- **Model:** Google Gemini
-- **Key Signal:** "WAIT! I SEE it! (等等！我看见了！)"
+### 📊 Logical Evidence
+* **Academic Reference**: DeepSeek-R1 (arXiv:2501.12948v1)
+* **Live Replication**: Observed in Google Gemini during the "1861n" logic deduction (2025-12-26).
+* **High-Density Proof**: [View Evidence on Hugging Face](https://huggingface.co/datasets/hejun0180-pixel/Wait-Phenomenon-Evidence-Gemini-DeepSeek/blob/main/Gemini%20%26%20DeepSeek%20Cross-architectural%20Evidence.png)
 
-## 3. Comparative Context
-This observation serves as an independent replication of the "Aha Moment" trajectories documented in the DeepSeek-R1-Zero research (arXiv:2501.12948).
+### 📁 Repository Structure
+* `/Logs`: Raw interaction data showing the "Aha moment."
+* `/Analysis`: Comparative study between Gemini's CoT and DeepSeek's WP.
 
-## 4. Evidence Folder
-Raw logs and screenshots of the model's self-interruption are archived in the `/evidence` directory.
+> "WP is an intrinsic property of high-level reasoning models." — Hai Rui (hejun0180-pixel)
