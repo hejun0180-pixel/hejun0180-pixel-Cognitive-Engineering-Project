@@ -10,6 +10,7 @@ This project documents the discovery of the **Wait-Phenomenon (WP)** — replica
 ### 🔗 Quick Links
 * **High-Density Proof (Hugging Face)**: [Explore Dataset](https://huggingface.co/datasets/hejun0180-pixel/Wait-Phenomenon-Evidence-Gemini-DeepSeek)
 * **Academic Reference**: DeepSeek-R1 (arXiv:2501.12948v1)
+* *Predictive Evidence: https://gemini.google.com/share/48bb16069cbf*
 
 ---
 > "WP is an intrinsic property of high-level reasoning models." — Hai Rui
